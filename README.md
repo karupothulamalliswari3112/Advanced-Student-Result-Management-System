@@ -143,7 +143,7 @@ Through this project, I gained practical experience in:
 
 **Karupothula Malliswari**
 
-GitHub: https://github.com/karupothulamalliswari3112
+🔗 GitHub: https://github.com/karupothulamalliswari3112
 
 📂 Project Repository: https://github.com/karupothulamalliswari3112/Advanced-Student-Result-Management-System
 
